@@ -4,13 +4,14 @@
 Olá, meu nome é Luan, sou graduando em Ciência da Computação pela PUC Minas. Adoro estudar sobre e aprender novas tecnologias.
 - Falo português e inglês. 
 - ⚡ Fun fact: Se houvesse uma guerra entre cangurus e a população do Uruguai, cada uruguaio teria que lutar, em média, contra 12 cangurus.
+🕘 Meus repositórios estão privados enquanto faço uma manutenção na aparência do meu GitHub, em breve, estarão disponíveis e com uma cara mais organizada. 
 
 
-- Hi there, my name is Luan. I am an undergraduate in Computer Science at PUC Minas. I love studying and learning about new technologies.
+
+Hi there, my name is Luan. I am an undergraduate in Computer Science at PUC Minas. I love studying and learning about new technologies.
 - I speak Portuguese and English.
-⚡ Fun fact: If there were a war between kangaroos and the population of Uruguay, each Uruguayan would have to fight, on average, against 12 kangaroos.
-
-
+- ⚡ Fun fact: If there were a war between kangaroos and the population of Uruguay, each Uruguayan would have to fight, on average, against 12 kangaroos.
+🕘 My repositories are currently private while I work on updating the appearance of my GitHub profile. They will be available soon and will have a more organised look.
 
 
 <!--
