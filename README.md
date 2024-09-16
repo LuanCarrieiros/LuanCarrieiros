@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Se houvesse uma guerra entre cangurus e a população do Uruguai, cada uruguaio teria que lutar, em média, contra 12 cangurus.
 -->
 
-![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/LuanCarrieiros/LuanCarrieiros/blob/output/github-contribution-grid-snake.svg)
