@@ -25,7 +25,7 @@
 ## 📂 Repositórios
 
 🕘 Meus repositórios estão **temporariamente privados** enquanto trabalho em uma reorganização do meu GitHub.  
-🔧 Em breve, eles estarão disponíveis com visual mais limpo e organizado — e com readmes decentes também :)
+🔧 Em breve, eles estarão disponíveis com visual mais limpo e organizado.
 
 ---
 
