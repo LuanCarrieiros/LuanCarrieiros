@@ -1,10 +1,8 @@
-<h1 align="center">👋 Olá, eu sou o Luan!</h1>
+## 👋 Olá, eu sou o Luan!
 
-<p align="center">
-🎓 Graduando em <strong>Ciência da Computação</strong> pela <strong>PUC Minas</strong> <br>
-💡 Apaixonado por tecnologia, sistemas inteligentes e desenvolvimento de software <br>
-🗣️ Falo <strong>português</strong> e <strong>inglês</strong>
-</p>
+🎓 Graduando em **Ciência da Computação** pela **PUC Minas**.  
+💡 Apaixonado por tecnologia, sistemas inteligentes e desenvolvimento de software.  
+🗣️ Falo **português** e **inglês**.
 
 ---
 
