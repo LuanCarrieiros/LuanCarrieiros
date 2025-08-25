@@ -1,60 +1,186 @@
-<h1 align="center">👋 Olá, eu sou o Luan!</h1>
+<div align="center">
 
-<p align="center">
-🎓 Graduando em <strong>Ciência da Computação</strong> pela <strong>PUC Minas</strong><br>
-💡 Curioso por tudo que envolva <strong>código, lógica e criatividade</strong><br>
-🗣️ Falo <strong>português</strong> e <strong>inglês</strong>
-</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!+I'm+Luan+Carrieiros;¡Hola!+Soy+Luan+Carrieiros;你好！我是Luan+Carrieiros;Welcome+to+my+GitHub+Profile!)
 
----
+</div>
 
-## 🛠️ Tecnologias e Ferramentas
-
-<p>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
-</p>
+<div align="center">
+  <a href="https://github.com/LuanCarrieiros">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LuanCarrieiros&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanCarrieiros&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+</div>
 
 ---
 
-## 📂 Repositórios
+## 🚀 About Me / Sobre Mim
 
-🕘 Meus repositórios estão **temporariamente privados** enquanto trabalho em uma reorganização do meu GitHub.  
-🔧 Em breve, eles estarão disponíveis com visual mais limpo e organizado.
+**🇺🇸 EN:**  
+I'm a **Computer Science** student at **PUC MINAS** (Pontifícia Universidade Católica de Minas Gerais) with a passion for technology and problem-solving. Having spent my **formative teenage years in England**, I developed strong cross-cultural communication skills and a global mindset. Currently in my 5th semester, I'm building a strong foundation in both **software development** and **computer architecture**.
 
----
-
-## 🤓 Fun Fact
-
-> ⚡ Se houvesse uma guerra entre cangurus e a população do Uruguai,  
-> cada uruguaio teria que lutar, em média, contra **12 cangurus**.
+**🇧🇷 PT:**  
+Sou estudante de **Ciência da Computação** na **PUC MINAS** com paixão por tecnologia e resolução de problemas. Tendo passado minha **adolescência na Inglaterra**, desenvolvi habilidades de comunicação intercultural e uma mentalidade global. Atualmente no 5º período, estou construindo uma base sólida em **desenvolvimento de software** e **arquitetura de computadores**.
 
 ---
 
-## 🌐 English Version
+## 🎓 Academic Journey / Jornada Acadêmica
 
-<details>
-<summary>Click here to read in English</summary>
+<div align="center">
 
-Hi there, my name is **Luan**. I’m a Computer Science undergraduate at **PUC Minas** in Brazil.  
-I love exploring everything that involves **code, logic, and creativity**.  
-I speak **Portuguese** and **English** fluently.
+| **🇺🇸 Course** | **🇧🇷 Disciplina** | **Status** |
+|:---|:---|:---:|
+| **Data Structures & Algorithms I, II, III** | **Algoritmos e Estrutura de Dados I, II, III** | ✅ |
+| **Computer Architecture I, II** | **Arquitetura de Computadores I, II** | ✅ |
+| **Computer Architecture III** | **Arquitetura de Computadores III** | 🔄 |
+| **Graph Theory** | **Teoria dos Grafos** | ✅ |
+| **Computability Theory** | **Teoria da Computabilidade** | ✅ |
+| **Artificial Intelligence** | **Inteligência Artificial** | ✅ |
+| **Software Engineering II** | **Engenharia de Software II** | 🔄 |
 
-🕘 My repositories are currently private while I work on updating the look of my GitHub.  
-🔧 They will be public soon with a more organized structure and clearer documentation.
-
-> ⚡ Fun fact: If there were a war between kangaroos and the population of Uruguay,  
-> each Uruguayan would have to fight, on average, against **12 kangaroos**.
-
-</details>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://github.com/LuanCarrieiros/LuanCarrieiros/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+## 🛠️ Tech Stack / Stack Tecnológica
+
+### **💻 Programming Languages / Linguagens de Programação**
+<div align="center">
+  
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-543DE0?style=for-the-badge&logo=xilinx&logoColor=white)
+
+</div>
+
+### **🚀 Frameworks & Tools / Frameworks e Ferramentas**
+<div align="center">
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+</div>
+
+### **🔧 Specialized Areas / Áreas Especializadas**
+- **🏗️ Software Architecture** | **Arquitetura de Software**
+- **🧠 Artificial Intelligence & Machine Learning** | **IA e Machine Learning**
+- **💾 Computer Architecture & Hardware Design** | **Arquitetura de Computadores**
+- **📊 Data Structures & Algorithms** | **Estruturas de Dados e Algoritmos**
+- **🌐 Full-Stack Web Development** | **Desenvolvimento Web Full-Stack**
+
+---
+
+## 🌟 Featured Projects / Projetos em Destaque
+
+### 🏫 **[Sistema GUTO](https://github.com/LuanCarrieiros/Guto)**
+**🇺🇸** A comprehensive **School Management System** built with **Django**. Features student/staff management, evaluation system, and modular architecture.
+
+**🇧🇷** Sistema completo de **Gestão Escolar** desenvolvido em **Django**. Inclui gestão de alunos/funcionários, sistema de avaliação e arquitetura modular.
+
+**Stack:** `Python` `Django` `SQLite` `HTML/CSS` `JavaScript`
+
+---
+
+### 🔬 **[Artificial Intelligence Projects](https://github.com/LuanCarrieiros/IA)**
+**🇺🇸** Collection of **AI/ML projects** and experiments using **Jupyter Notebooks**, exploring various algorithms and data analysis techniques.
+
+**🇧🇷** Coleção de **projetos de IA/ML** e experimentos usando **Jupyter Notebooks**, explorando diversos algoritmos e técnicas de análise de dados.
+
+**Stack:** `Python` `Jupyter` `NumPy` `Pandas` `Scikit-learn`
+
+---
+
+### ⚙️ **[Computer Architecture II](https://github.com/LuanCarrieiros/Arquitetura-de-Computadores-II)**
+**🇺🇸** **Hardware design projects** in **VHDL**, including 32-bit ALU, adders, decoders, and other fundamental computer components.
+
+**🇧🇷** Projetos de **design de hardware** em **VHDL**, incluindo ALU 32-bit, somadores, decodificadores e outros componentes fundamentais.
+
+**Stack:** `VHDL` `Digital Logic Design` `Computer Architecture`
+
+---
+
+## 🗣️ Languages / Idiomas
+
+<div align="center">
+
+| **Language** | **Idioma** | **Level** | **Nível** |
+|:---:|:---:|:---:|:---:|
+| 🇧🇷 **Portuguese** | **Português** | Native | Nativo |
+| 🇬🇧 **English** | **Inglês** | Native-level (Teenage years in England) | Nível nativo (Adolescência na Inglaterra) |
+| 🇪🇸 **Spanish** | **Espanhol** | Intermediate (Self-taught) | Intermediário (Autodidata) |
+| 🇨🇳 **Mandarin** | **Mandarim** | Basic (Learning) | Básico (Aprendendo) |
+
+</div>
+
+---
+
+## 📊 GitHub Analytics / Análises do GitHub
+
+<div align="center">
+  <a href="https://github.com/LuanCarrieiros">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanCarrieiros&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LuanCarrieiros&theme=tokyonight"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuanCarrieiros&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
+</div>
+
+---
+
+## 🎯 Current Focus / Foco Atual
+
+**🇺🇸 EN:**
+- 🔍 **Deepening knowledge** in **Software Engineering** and **Advanced Computer Architecture**
+- 🚀 **Expanding** the **Sistema GUTO** with new features and optimizations
+- 🧠 **Exploring** advanced **AI/ML algorithms** and applications
+- 🌏 **Improving** language skills, especially **Mandarin Chinese**
+
+**🇧🇷 PT:**
+- 🔍 **Aprofundando conhecimentos** em **Engenharia de Software** e **Arquitetura Avançada de Computadores**
+- 🚀 **Expandindo** o **Sistema GUTO** com novas funcionalidades e otimizações
+- 🧠 **Explorando** **algoritmos de IA/ML** avançados e aplicações
+- 🌏 **Aprimorando** habilidades linguísticas, especialmente **Chinês Mandarim**
+
+---
+
+## 📫 Let's Connect! / Vamos nos Conectar!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luancarrieiros)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luancarrieiros)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luan.carrieiros@gmail.com)
+
+</div>
+
+---
+
+## 🎪 Fun Fact / Curiosidade
+
+**🇺🇸** Did you know that kangaroos could theoretically invade Uruguay? There are about 50 million kangaroos in Australia and only 3.5 million people in Uruguay! 🦘🇺🇾
+
+**🇧🇷** Você sabia que os cangurus teoricamente poderiam invadir o Uruguai? Existem cerca de 50 milhões de cangurus na Austrália e apenas 3,5 milhões de pessoas no Uruguai! 🦘🇺🇾
+
+**🇪🇸** ¿Sabías que los canguros teóricamente podrían invadir Uruguay? ¡Hay unos 50 millones de canguros en Australia y solo 3,5 millones de personas en Uruguay! 🦘🇺🇾
+
+---
+
+<div align="center">
+  
+![Snake animation](https://github.com/LuanCarrieiros/LuanCarrieiros/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+<div align="center">
+
+**💜 Thanks for visiting my profile! / Obrigado pela visita! / ¡Gracias por la visita!**
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=LuanCarrieiros.LuanCarrieiros)
+
+</div>
