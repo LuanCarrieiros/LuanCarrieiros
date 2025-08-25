@@ -23,6 +23,21 @@ Sou estudante de **Ciência da Computação** na **PUC MINAS** com paixão por t
 
 ---
 
+## 🗣️ Languages / Idiomas
+
+<div align="center">
+
+| **Language** | **Idioma** | **Level** | **Nível** |
+|:---:|:---:|:---:|:---:|
+| 🇧🇷 **Portuguese** | **Português** | Native | Nativo |
+| 🇬🇧 **English** | **Inglês** | Native-level (Teenage years in England) | Nível nativo (Adolescência na Inglaterra) |
+| 🇪🇸 **Spanish** | **Espanhol** | Intermediate (Learned in England) | Intermediário (Aprendido na Inglaterra) |
+| 🇨🇳 **Mandarin** | **Mandarim** | Basic (Learning) | Básico (Aprendendo) |
+
+</div>
+
+---
+
 ## 🎓 Academic Journey / Jornada Acadêmica
 
 <div align="center">
@@ -118,36 +133,6 @@ Sou estudante de **Ciência da Computação** na **PUC MINAS** com paixão por t
 **🇧🇷** **Estruturas avançadas de memória secundária** em **Java**. Inclui árvores B+, listas invertidas, tabelas hash, ordenação externa, compressão de dados e implementações de criptografia.
 
 **Stack:** `Java` `B+ Trees` `Inverted Lists` `Hash Tables` `External Sorting` `Data Compression` `Cryptography`
-
----
-
-## 🗣️ Languages / Idiomas
-
-<div align="center">
-
-| **Language** | **Idioma** | **Level** | **Nível** |
-|:---:|:---:|:---:|:---:|
-| 🇧🇷 **Portuguese** | **Português** | Native | Nativo |
-| 🇬🇧 **English** | **Inglês** | Native-level (Teenage years in England) | Nível nativo (Adolescência na Inglaterra) |
-| 🇪🇸 **Spanish** | **Espanhol** | Intermediate (Learned in England) | Intermediário (Aprendido na Inglaterra) |
-| 🇨🇳 **Mandarin** | **Mandarim** | Basic (Learning) | Básico (Aprendendo) |
-
-</div>
-
----
-
-## 📊 GitHub Analytics / Análises do GitHub
-
-<div align="center">
-  <a href="https://github.com/LuanCarrieiros">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanCarrieiros&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LuanCarrieiros&theme=tokyonight"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuanCarrieiros&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
-</div>
 
 ---
 
