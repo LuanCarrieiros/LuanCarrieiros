@@ -29,13 +29,22 @@ Sou estudante de **Ciência da Computação** na **PUC MINAS** com paixão por t
 
 | **🇺🇸 Course** | **🇧🇷 Disciplina** | **Status** |
 |:---|:---|:---:|
-| **Data Structures & Algorithms I, II, III** | **Algoritmos e Estrutura de Dados I, II, III** | ✅ |
+| **Data Structures & Algorithms I, II, III** | **Algoritmos e Estruturas de Dados I, II, III** | ✅ |
 | **Computer Architecture I, II** | **Arquitetura de Computadores I, II** | ✅ |
-| **Computer Architecture III** | **Arquitetura de Computadores III** | 🔄 |
-| **Graph Theory** | **Teoria dos Grafos** | ✅ |
-| **Computability Theory** | **Teoria da Computabilidade** | ✅ |
+| **Graph Theory & Computability** | **Teoria dos Grafos e Computabilidade** | ✅ |
+| **Database Systems** | **Banco de Dados** | ✅ |
+| **Programming Languages** | **Linguagens de Programação** | ✅ |
+| **Software Engineering I** | **Engenharia de Software I** | ✅ |
 | **Artificial Intelligence** | **Inteligência Artificial** | ✅ |
+| **Web Interface Development** | **Desenvolvimento de Interfaces Web** | ✅ |
+| **Mobile Development Lab** | **Lab. de Desenvolvimento para Dispositivos Móveis** | ✅ |
+| **Performance Modeling & Evaluation** | **Modelagem e Avaliação de Desempenho** | ✅ |
+| **Computer Architecture III** | **Arquitetura de Computadores III** | 🔄 |
 | **Software Engineering II** | **Engenharia de Software II** | 🔄 |
+| **Algorithm Design & Analysis** | **Projeto e Análise de Algoritmos** | 🔄 |
+| **Computer Networks I** | **Redes de Computadores I** | 🔄 |
+| **Operating Systems** | **Sistemas Operacionais** | 🔄 |
+| **Statistics & Probability** | **Estatística e Probabilidade** | 🔄 |
 
 </div>
 
