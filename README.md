@@ -187,17 +187,13 @@ Sou estudante de **Ciência da Computação** na **PUC MINAS** com paixão por t
 
 **🇪🇸** ¿Sabías que los canguros teóricamente podrían invadir Uruguay? ¡Hay unos 50 millones de canguros en Australia y solo 3,5 millones de personas en Uruguay! 🦘🇺🇾
 
+**🇨🇳** 你知道袋鼠在理论上可以入侵乌拉圭吗？澳大利亚大约有5000万只袋鼠，而乌拉圭只有350万人！🦘🇺🇾
+
 ---
 
 <div align="center">
-  
-![Snake animation](https://github.com/LuanCarrieiros/LuanCarrieiros/blob/output/github-contribution-grid-snake.svg)
 
-</div>
-
-<div align="center">
-
-**💜 Thanks for visiting my profile! / Obrigado pela visita! / ¡Gracias por la visita!**
+**💜 Thanks for visiting my profile! / Obrigado pela visita! / ¡Gracias por la visita! / 谢谢访问我的简介！**
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=LuanCarrieiros.LuanCarrieiros)
 
