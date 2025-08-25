@@ -15,11 +15,11 @@
 
 ## 🚀 About Me / Sobre Mim
 
-**🇺🇸 EN:**  
-I'm a **Computer Science** student at **PUC MINAS** (Pontifícia Universidade Católica de Minas Gerais) with a passion for technology and problem-solving. Having spent my **formative teenage years in England**, I developed strong cross-cultural communication skills and a global mindset. Currently in my 5th semester, I'm building a strong foundation in both **software development** and **computer architecture**.
+**🇬🇧 EN:**  
+I'm a **Computer Science** student at **PUC MINAS** (Pontifícia Universidade Católica de Minas Gerais) with a passion for technology and problem-solving. Having spent my **formative teenage years in England**, I developed strong cross-cultural communication skills and a global mindset. I'm building a strong foundation in both **software development** and **computer architecture**.
 
 **🇧🇷 PT:**  
-Sou estudante de **Ciência da Computação** na **PUC MINAS** com paixão por tecnologia e resolução de problemas. Tendo passado minha **adolescência na Inglaterra**, desenvolvi habilidades de comunicação intercultural e uma mentalidade global. Atualmente no 5º período, estou construindo uma base sólida em **desenvolvimento de software** e **arquitetura de computadores**.
+Sou estudante de **Ciência da Computação** na **PUC MINAS** com paixão por tecnologia e resolução de problemas. Tendo passado minha **adolescência na Inglaterra**, desenvolvi habilidades de comunicação intercultural e uma mentalidade global. Estou construindo uma base sólida em **desenvolvimento de software** e **arquitetura de computadores**.
 
 ---
 
@@ -27,7 +27,7 @@ Sou estudante de **Ciência da Computação** na **PUC MINAS** com paixão por t
 
 <div align="center">
 
-| **🇺🇸 Course** | **🇧🇷 Disciplina** | **Status** |
+| **🇬🇧 Course** | **🇧🇷 Disciplina** | **Status** |
 |:---|:---|:---:|
 | **Data Structures & Algorithms I, II, III** | **Algoritmos e Estruturas de Dados I, II, III** | ✅ |
 | **Computer Architecture I, II** | **Arquitetura de Computadores I, II** | ✅ |
@@ -120,7 +120,7 @@ Sou estudante de **Ciência da Computação** na **PUC MINAS** com paixão por t
 |:---:|:---:|:---:|:---:|
 | 🇧🇷 **Portuguese** | **Português** | Native | Nativo |
 | 🇬🇧 **English** | **Inglês** | Native-level (Teenage years in England) | Nível nativo (Adolescência na Inglaterra) |
-| 🇪🇸 **Spanish** | **Espanhol** | Intermediate (Self-taught) | Intermediário (Autodidata) |
+| 🇪🇸 **Spanish** | **Espanhol** | Intermediate (Learned in England) | Intermediário (Aprendido na Inglaterra) |
 | 🇨🇳 **Mandarin** | **Mandarim** | Basic (Learning) | Básico (Aprendendo) |
 
 </div>
@@ -144,7 +144,7 @@ Sou estudante de **Ciência da Computação** na **PUC MINAS** com paixão por t
 
 ## 🎯 Current Focus / Foco Atual
 
-**🇺🇸 EN:**
+**🇬🇧 EN:**
 - 🔍 **Deepening knowledge** in **Software Engineering** and **Advanced Computer Architecture**
 - 🚀 **Expanding** the **Sistema GUTO** with new features and optimizations
 - 🧠 **Exploring** advanced **AI/ML algorithms** and applications
@@ -172,7 +172,7 @@ Sou estudante de **Ciência da Computação** na **PUC MINAS** com paixão por t
 
 ## 🎪 Fun Fact / Curiosidade
 
-**🇺🇸** Did you know that kangaroos could theoretically invade Uruguay? There are about 50 million kangaroos in Australia and only 3.5 million people in Uruguay! 🦘🇺🇾
+**🇬🇧** Did you know that kangaroos could theoretically invade Uruguay? There are about 50 million kangaroos in Australia and only 3.5 million people in Uruguay! 🦘🇺🇾
 
 **🇧🇷** Você sabia que os cangurus teoricamente poderiam invadir o Uruguai? Existem cerca de 50 milhões de cangurus na Austrália e apenas 3,5 milhões de pessoas no Uruguai! 🦘🇺🇾
 
