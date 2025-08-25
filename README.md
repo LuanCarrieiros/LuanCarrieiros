@@ -86,7 +86,7 @@ Sou estudante de **Ciência da Computação** na **PUC MINAS** com paixão por t
 ## 🌟 Featured Projects / Projetos em Destaque
 
 ### 🏫 **[Sistema GUTO](https://github.com/LuanCarrieiros/Guto)**
-**🇺🇸** A comprehensive **School Management System** built with **Django**. Features student/staff management, evaluation system, and modular architecture.
+**🇬🇧** A comprehensive **School Management System** built with **Django**. Features student/staff management, evaluation system, and modular architecture.
 
 **🇧🇷** Sistema completo de **Gestão Escolar** desenvolvido em **Django**. Inclui gestão de alunos/funcionários, sistema de avaliação e arquitetura modular.
 
@@ -95,7 +95,7 @@ Sou estudante de **Ciência da Computação** na **PUC MINAS** com paixão por t
 ---
 
 ### 🔬 **[Artificial Intelligence Projects](https://github.com/LuanCarrieiros/IA)**
-**🇺🇸** Collection of **AI/ML projects** and experiments using **Jupyter Notebooks**, exploring various algorithms and data analysis techniques.
+**🇬🇧** Collection of **AI/ML projects** and experiments using **Jupyter Notebooks**, exploring various algorithms and data analysis techniques.
 
 **🇧🇷** Coleção de **projetos de IA/ML** e experimentos usando **Jupyter Notebooks**, explorando diversos algoritmos e técnicas de análise de dados.
 
@@ -104,11 +104,20 @@ Sou estudante de **Ciência da Computação** na **PUC MINAS** com paixão por t
 ---
 
 ### ⚙️ **[Computer Architecture II](https://github.com/LuanCarrieiros/Arquitetura-de-Computadores-II)**
-**🇺🇸** **Hardware design projects** in **VHDL**, including 32-bit ALU, adders, decoders, and other fundamental computer components.
+**🇬🇧** **Hardware design projects** in **VHDL**, including 32-bit ALU, adders, decoders, and other fundamental computer components.
 
 **🇧🇷** Projetos de **design de hardware** em **VHDL**, incluindo ALU 32-bit, somadores, decodificadores e outros componentes fundamentais.
 
 **Stack:** `VHDL` `Digital Logic Design` `Computer Architecture`
+
+---
+
+### 🗂️ **[Data Structures & Algorithms III](https://github.com/LuanCarrieiros/Algoritmo-e-Estrutura-de-Dados-III)**
+**🇬🇧** **Advanced secondary memory structures** in **Java**. Features B+ trees, inverted indexes, hash tables, external sorting, data compression, and cryptography implementations.
+
+**🇧🇷** **Estruturas avançadas de memória secundária** em **Java**. Inclui árvores B+, listas invertidas, tabelas hash, ordenação externa, compressão de dados e implementações de criptografia.
+
+**Stack:** `Java` `B+ Trees` `Inverted Lists` `Hash Tables` `External Sorting` `Data Compression` `Cryptography`
 
 ---
 
@@ -145,13 +154,13 @@ Sou estudante de **Ciência da Computação** na **PUC MINAS** com paixão por t
 ## 🎯 Current Focus / Foco Atual
 
 **🇬🇧 EN:**
-- 🔍 **Deepening knowledge** in **Software Engineering** and **Advanced Computer Architecture**
+- 🔍 **Deepening knowledge** in **Algorithm Design & Analysis**, **Software Engineering** and **Advanced Computer Architecture**
 - 🚀 **Expanding** the **Sistema GUTO** with new features and optimizations
 - 🧠 **Exploring** advanced **AI/ML algorithms** and applications
 - 🌏 **Improving** language skills, especially **Mandarin Chinese**
 
 **🇧🇷 PT:**
-- 🔍 **Aprofundando conhecimentos** em **Engenharia de Software** e **Arquitetura Avançada de Computadores**
+- 🔍 **Aprofundando conhecimentos** em **Projeto e Análise de Algoritmos**, **Engenharia de Software** e **Arquitetura Avançada de Computadores**
 - 🚀 **Expandindo** o **Sistema GUTO** com novas funcionalidades e otimizações
 - 🧠 **Explorando** **algoritmos de IA/ML** avançados e aplicações
 - 🌏 **Aprimorando** habilidades linguísticas, especialmente **Chinês Mandarim**
