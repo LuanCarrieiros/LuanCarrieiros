@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://github.com/LuanCarrieiros">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LuanCarrieiros&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanCarrieiros&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanCarrieiros&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=1800"/>
   </a>
 </div>
 
@@ -15,10 +15,10 @@
 
 ## 🚀 About Me / Sobre Mim
 
-**🇬🇧 EN:**  
+**🇬🇧 EN:**
 I'm a **Computer Science** student at **PUC MINAS** (Pontifícia Universidade Católica de Minas Gerais) with a passion for technology and problem-solving. Having spent my **formative teenage years in England**, I developed strong cross-cultural communication skills and a global mindset. I'm building a strong foundation in both **software development** and **computer architecture**.
 
-**🇧🇷 PT:**  
+**🇧🇷 PT:**
 Sou estudante de **Ciência da Computação** na **PUC MINAS** com paixão por tecnologia e resolução de problemas. Tendo passado minha **adolescência na Inglaterra**, desenvolvi habilidades de comunicação intercultural e uma mentalidade global. Estou construindo uma base sólida em **desenvolvimento de software** e **arquitetura de computadores**.
 
 ---
@@ -69,7 +69,7 @@ Sou estudante de **Ciência da Computação** na **PUC MINAS** com paixão por t
 
 ### **💻 Programming Languages / Linguagens de Programação**
 <div align="center">
-  
+
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
